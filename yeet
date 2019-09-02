@@ -1,0 +1,7 @@
+echo "# Final-Bastion-Webhook" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/berryscurry/Final-Bastion-Webhook.git
+git push -u origin master
+yeet
